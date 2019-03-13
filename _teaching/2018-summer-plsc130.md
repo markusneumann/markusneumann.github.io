@@ -11,6 +11,7 @@ location: "State College, PA"
 [Syllabus](markusneumann.github.io/files/Syllabus_PLSC130_Summer_2018.pdf)
 
 ###Class description:
+
 Campaigns and elections are the mechanisms used to place people into - and remove them from - office in American government. Electoral outcomes are the product of rules that govern who can run and participate in voting, the choices made by candidates and their campaigns, and the individual decisions rendered by voters at the ballot box. This course explores each of these items in more detail to provide a comprehensive understanding of how campaigns and elections
 operate in the United States. 
 
