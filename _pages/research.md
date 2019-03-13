@@ -13,7 +13,7 @@ Dissertation committee: Burt Monroe, Michael Nelson, Bruce Desmarais, Rebecca Pa
 
 ## Working Papers
 
-<b>[Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States](https://markusneumann.github.io/research/govWebsites)</b> <br>
+<b>[Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States](https://markusneumann.github.io/research/govwebsites)</b> <br>
 With Fridolin Linder and Bruce Desmarais
 
 <b>[Fair and Balanced? News Media Bias in the Photographic Coverage of the 2016 U.S. Presidential Election](https://markusneumann.github.io/research/mediabias)</b> <br>
