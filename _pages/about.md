@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Penn State, in the Department of Political Science. I hold Bachelor and Master degrees in Political Science from the University of Mannheim, Germany, and a Master degree in Political Science from Penn State. I expect to finish my PhD in Spring 2020.
-
-My primary interest lies in all things computational social science. Specifically, I focus on methods that aid me in the study of political communication and representation. Most of my work therefore lies in natural language processing, with research in both text as well as audio data. I am also interested in computer vision and other areas of machine learning.
+I am a PhD candidate at Penn State, expecting to finish my degree in Spring 2020. My research revolves around the application of machine learning and specifically natural language processing methods to social science problems, such as in political communication and representation. My work primarily deals with text and audio data, but also extends to image and network data as well as simulations. My [dissertation](https://markusneumann.github.io/research/phoneticstyleshifting) relies on tools from phonetics, electrical engineering and natural language processing to study how U.S. senators shift their rhetorical style in accordance with the representational needs of the audience.
