@@ -1,5 +1,5 @@
 ---
-title: "PLSC 130: 123"
+title: "PLSC 130: 1235344343434343434344343"
 collection: teachingassistant
 type: "Undergraduate class"
 permalink: /teaching/ta/test123
