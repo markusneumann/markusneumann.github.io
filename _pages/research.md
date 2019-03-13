@@ -7,14 +7,15 @@ author_profile: true
 
 ## Working Papers
 
+<b>[Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States](https://markusneumann.github.io/research/govWebsites)</b> <br>
+With Fridolin Linder and Bruce Desmarais
+
+<b>[Fair and Balanced? News Media Bias in the Photographic Coverage of the 2016 U.S. Presidential Election](https://markusneumann.github.io/research/mediabias)</b> <br>
+
+<b>[More Than Just Kissing Babies: The Strategy of Campaign Visits in United States Presidential Elections](https://markusneumann.github.io/research/campaignvisits)</b> <br>
+
+<b>[One for all and all for one? Altruistic behavior, population size and network topology](https://markusneumann.github.io/research/altruism)</b> <br>
+
 ## Other Research
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Causal Evidence on State Effects from a Geographic Regression Discontinuity Design](https://markusneumann.github.io/research/politicalculture)</b> <br>
