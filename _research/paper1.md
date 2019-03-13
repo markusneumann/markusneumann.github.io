@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Fair and Balanced? News Media Bias in the Photographic Coverage of the 2016 U.S. Presidential Election"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/mediabias
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://markusneumann.github.io/files/MA_media_bias.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download working paper here](http://markusneumann.github.io/files/MA_media_bias.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Abstract:<br>
+The 2016 presidential election has renewed discussions about the impartiality of the news media. Scholars have studied this issue extensively, investigating newspapers, television and online news, yet the basic question remains unsettled: Is the media biased? In this paper, I focus on popular news websites covering campaign rallies held during the 2016 presidential election campaign. I apply computer vision techniques to photos of supporters, automatically identifying characteristics such as age, gender and emotions of the attendants. Contrary to expectations, news outlets do not seem to have featured more positive pictures of their co-partisans. Even more surprising, and defying the popular notion of a left-leaning media landscape, the quantity and quality of images across both liberal and conservative news outlets actually appears to have favored Donald Trump.
