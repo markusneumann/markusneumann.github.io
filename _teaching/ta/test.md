@@ -1,6 +1,6 @@
 ---
 title: "PLSC 130: 123"
-collection: teaching
+collection: teachingassistant
 type: "Undergraduate class"
 permalink: /teaching/ta/test123
 venue: "Penn State, Department of Political Science"
