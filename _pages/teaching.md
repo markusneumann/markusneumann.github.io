@@ -19,7 +19,7 @@ Graduate class, <i>Penn State, Department of Political Science</i>, Fall 2018
 
 Professor Allison Harris
 
-<b>PLSC 001: Introduction to American National Government]</b> <br>
+<b>PLSC 001: Introduction to American National Government</b> <br>
 Undergraduate class, <i>Penn State, Department of Political Science</i>, Fall 2016
 
 Professor Zach Baumann
