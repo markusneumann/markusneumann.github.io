@@ -1,3 +1,9 @@
+---
+permalink: /contact/
+title: "Contact"
+excerpt: "Contact me"
+author_profile: true
+---
 
 Department of Political Science
 The Pennsylvania State University
