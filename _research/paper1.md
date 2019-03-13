@@ -1,8 +1,8 @@
 ---
 title: "Fair and Balanced? News Media Bias in the Photographic Coverage of the 2016 U.S. Presidential Election"
-collection: publications
-permalink: /publication/mediabias
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+collection: research
+permalink: /research/mediabias
+excerpt: 'Investigate photographic media bias in the 2016 presidential election with computer vision.'
 paperurl: 'http://markusneumann.github.io/files/MA_media_bias.pdf'
 ---
 
