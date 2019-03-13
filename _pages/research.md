@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+## Dissertation
+
+<b>[Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States](https://markusneumann.github.io/research/phoneticstyleshifting)</b> <br>
+Dissertation committee: Burt Monroe, Michael Nelson, Bruce Desmarais, Rebecca Passonneau
+
 ## Working Papers
 
 <b>[Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States](https://markusneumann.github.io/research/govWebsites)</b> <br>
