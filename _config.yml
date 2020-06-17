@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Markus Neumann"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at Penn State. Computational social science, natural language processing, American politics."
+  bio              : "Postdoctoral Research Fellow at the Wesleyan Media Project. Computational social science, natural language processing, American politics."
   location         : "State College, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "mvn5218@psu.edu"
+  email            : "mneumann01@wesleyan.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
