@@ -28,6 +28,10 @@ Computational analysis of phonetic style-shifting in political speech, which ser
 Dissertation chapter. <br>
 Using computer vision to investigate photographic media bias in the 2016 presidential election. The results show less media bias than expected in the selection of images of supporters, but also unexpected media bias in favor of Donald Trump in terms of image quantity and quality even in liberal outlets.
 
+<b>[Synthesis of Open-ended Survey Responses UsingGenerative Language Models]()</b> <br>
+With _Burt Monroe_<br>
+We use generative language models to simulate artificial survey responses akin to those of the Mood of the Nation Poll, with the goal of providing a tool for data augmentation and privacy.
+
 <b>[More Than Just Kissing Babies: The Strategy of Campaign Visits in United States Presidential Elections](https://markusneumann.github.io/research/campaignvisits)</b> <br>
 Investigating the strategies employed by presidential candidates in choosing where to hold campaign rallies at the state and county level. Closeness of the election, votes of the state in the electoral college and socio-demographic factors are found to play a role.
 
@@ -35,10 +39,10 @@ Investigating the strategies employed by presidential candidates in choosing whe
 
 <b>Body Language and Gender Stereotypes in Campaign Video</b> <br>
 With _Erika Fowler_ and _Travis Ridout_<br>
-Using automated computer vision techniques to study the body language of candidates for a wide range of political offices in the U.S. to test whether politicians exhibit stereotypical behavior.
+We use automated computer vision techniques to study the body language of candidates for a wide range of political offices in the U.S. We analyze the extent to which political candidates exhibit gender-stereotypical behavior in the way they gesticulate in campaign videos collected by the Wesleyan Media Project.
 
 <b>Studying Applause at Presidential Campaign Rallies</b> <br>
-With _Michael Bailey_<br>mturk
+With _Michael Bailey_<br>
 We study audio data from rallies held by Donald Trump and use machine learning to detect when supporters applaud. We study the content of the statements by the candidate that led to the most applause. Furthermore, we analyze whether statements that receive particularly large applause are more likely to be repeated in future speeches.
 
 <b>Interpreting Neural Classifications of Political Text</b> <br>
