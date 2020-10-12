@@ -5,9 +5,9 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-Department of Political Science<br>
-The Pennsylvania State University<br>
-224 Pond Lab<br>
-University Park, PA 16802
+Wesleyan Media Project & Quantitative Analysis Center<br>
+Wesleyan University<br>
+209 Allbritton Center<br>
+Middletown, CT 06459
 
 Email: mneumann01@wesleyan.edu
