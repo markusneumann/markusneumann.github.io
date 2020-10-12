@@ -1,7 +1,7 @@
 ---
 title: "Vocal Formality and Public Appeal in the U.S."
 collection: research
-permalink: /research/govwebsites
+permalink: /research/formality_appeal
 ---
 
 *Working paper available upon request*. Under review.
