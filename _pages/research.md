@@ -28,7 +28,7 @@ Computational analysis of phonetic style-shifting in political speech, which ser
 Dissertation chapter. <br>
 Using computer vision to investigate photographic media bias in the 2016 presidential election. The results show less media bias than expected in the selection of images of supporters, but also unexpected media bias in favor of Donald Trump in terms of image quantity and quality even in liberal outlets.
 
-<b>[Synthesis of Open-ended Survey Responses UsingGenerative Language Models]()</b> <br>
+<b>[Synthesis of Open-ended Survey Responses Using Generative Language Models](https://markusneumann.github.io/research/moodsynthesis)</b> <br>
 With _Burt Monroe_<br>
 We use generative language models to simulate artificial survey responses akin to those of the Mood of the Nation Poll, with the goal of providing a tool for data augmentation and privacy.
 
@@ -46,7 +46,7 @@ With _Michael Bailey_<br>
 We study audio data from rallies held by Donald Trump and use machine learning to detect when supporters applaud. We study the content of the statements by the candidate that led to the most applause. Furthermore, we analyze whether statements that receive particularly large applause are more likely to be repeated in future speeches.
 
 <b>Interpreting Neural Classifications of Political Text</b> <br>
-With _Burt Monroe_<br>mturk
+With _Burt Monroe_<br>
 Neural networks are becoming increasingly popular for classifying political texts, but their adaption by large parts of the field has been hindered by their lack of interpretability. In this paper, we show how the interpretation of an LSTM classifier can be facilitated in a way that not only matches that of traditional classifiers, but is actually more interpretable by taking word order into account.
 
 <b>[Causal Evidence on State Effects from a Geographic Regression Discontinuity Design](https://markusneumann.github.io/research/politicalculture)</b> <br>
