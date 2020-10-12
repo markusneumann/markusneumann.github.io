@@ -7,10 +7,11 @@ author_profile: true
 
 ## Instructor
 
+<b>[QAC 239: Machine Learning Methods for Text, Audio and Video Analysis](https://markusneumann.github.io/teaching/2020-fall-qac239)</b> <br>
+Undergraduate class, <i>Wesleyan University, Quantitative Analysis Center</i>, Fall 2020
+
 <b>[PLSC 130: American Political Campaigns and Elections](https://markusneumann.github.io/teaching/2018-summer-plsc130)</b> <br>
 Undergraduate class, <i>Penn State, Department of Political Science</i>, Summer 2018
-
-[Syllabus](https://markusneumann.github.io/files/Syllabus_PLSC130_Summer_2018.pdf)
 
 ## Teaching Assistant
 
