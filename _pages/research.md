@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Articles
-Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-Scale Small-World Networks." *Journal of Artificial Societies and Social Simulation* 23 (4) 2. [[Paper]](http://jasss.soc.surrey.ac.uk/23/4/2.html) [[Replication Materials]](https://www.comses.net/codebases/41bc083e-b8d3-4133-83ed-150bb63a4b39/releases/1.0.0/)
-
 Zach Baumann, Michael Nelson, and Markus Neumann. 2021. "Party Competition and Policy Liberalism." *State Politics & Policy Quarterly*. [[Paper]](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/abs/party-competition-and-policy-liberalism/6C923408FCB0165E2DF709E9D861DDD8) [[Replication Materials]](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/KXN8GN)
+
+Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-Scale Small-World Networks." *Journal of Artificial Societies and Social Simulation* 23 (4) 2. [[Paper]](http://jasss.soc.surrey.ac.uk/23/4/2.html) [[Replication Materials]](https://www.comses.net/codebases/41bc083e-b8d3-4133-83ed-150bb63a4b39/releases/1.0.0/)
 
 ## Other Publications
 Markus Neumann, Jielu Yao, Spencer Dean, and Erika Franklin Fowler. 2020. "A banner year for advertising and a look at differences across platforms." *U.S. Election Analysis 2020: Media, Voters and the Campaign*.
