@@ -11,7 +11,7 @@ Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-
 Zach Baumann, Michael Nelson, and Markus Neumann. 2021. "Party Competition and Policy Liberalism." *State Politics & Policy Quarterly*. [[Paper]](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/abs/party-competition-and-policy-liberalism/6C923408FCB0165E2DF709E9D861DDD8) [[Replication Materials]](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/KXN8GN)
 
 ## Other Publications
-Markus Neumann, Jielu Yao, Spencer Dean, and Erika Franklin Fowler. 2020. "A banner year for advertising and a look at differences across platforms." *U.S. Election Analysis 2020: Media, Voters and the Campaign*
+Markus Neumann, Jielu Yao, Spencer Dean, and Erika Franklin Fowler. 2020. "A banner year for advertising and a look at differences across platforms." *U.S. Election Analysis 2020: Media, Voters and the Campaign*.
 
 ## Working Papers
 
