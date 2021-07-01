@@ -16,11 +16,11 @@ Markus Neumann, Jielu Yao, Spencer Dean, and Erika Franklin Fowler. 2020. "A ban
 ## Working Papers
 
 <b>Body Language and Gender Stereotypes in Campaign Video</b> <br>
-With _Erika Fowler_ and _Travis Ridout_<br>. Revise & Resubmit.
+With _Erika Fowler_ and _Travis Ridout_. Revise & Resubmit.<br>
 We use automated computer vision techniques to study the body language of candidates for a wide range of political offices in the U.S. We analyze the extent to which political candidates exhibit gender-stereotypical behavior in the way they gesticulate in campaign videos collected by the Wesleyan Media Project.
 
 <b>[Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States](https://markusneumann.github.io/research/govwebsites)</b> <br>
-With _Fridolin Linder_ and _Bruce Desmarais_<br>. Revise & Resubmit.
+With _Fridolin Linder_ and _Bruce Desmarais_ Revise & Resubmit.<br>.
 Scraping, cleaning, extracting pertinent information from and analyzing websites of local governments through a comprehensive pipeline. The analysis shows that the partisanship of the mayor influences which type of content appears on the website.
 
 <b>[Vocal Formality and Public Appeal in the U.S.](https://markusneumann.github.io/research/formality_appeal)</b> <br>
