@@ -8,7 +8,7 @@ date: 2018-06-27 -- 2018-08-10
 location: "State College, PA"
 ---
 
-[Syllabus](markusneumann.github.io/files/Syllabus_PLSC130_Summer_2018.pdf)
+[Syllabus](https://markusneumann.github.io/files/Syllabus_PLSC130_Summer_2018.pdf)
 
 **Class description:**
 
