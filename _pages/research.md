@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Articles
+Markus Neumann, Fridolin Linder, and Bruce Desmarais. 2022. "Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States." Forthcoming at the *Journal of Information Technology & Politics*.
+
 Zach Baumann, Michael Nelson, and Markus Neumann. 2021. "Party Competition and Policy Liberalism." *State Politics & Policy Quarterly*. [[Paper]](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/abs/party-competition-and-policy-liberalism/6C923408FCB0165E2DF709E9D861DDD8) [[Replication Materials]](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/KXN8GN)
 
 Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-Scale Small-World Networks." *Journal of Artificial Societies and Social Simulation* 23 (4) 2. [[Paper]](http://jasss.soc.surrey.ac.uk/23/4/2.html) [[Replication Materials]](https://www.comses.net/codebases/41bc083e-b8d3-4133-83ed-150bb63a4b39/releases/1.0.0/)
@@ -13,15 +15,15 @@ Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-
 ## Other Publications
 Markus Neumann, Jielu Yao, Spencer Dean, and Erika Franklin Fowler. 2020. "A banner year for advertising and a look at differences across platforms." *U.S. Election Analysis 2020: Media, Voters and the Campaign*.
 
-## Working Papers
+## Current Projects
+
+### Revise & Resubmit
 
 <b>Body Language and Gender Stereotypes in Campaign Video</b> <br>
-With _Erika Fowler_ and _Travis Ridout_. Revise & Resubmit.<br>
+Markus Neumann, Erika Franklin Fowler, and Travis N. Ridout. Revise & Resubmit at *Computational Communication Research*.<br>
 We use automated computer vision techniques to study the body language of candidates for a wide range of political offices in the U.S. We analyze the extent to which political candidates exhibit gender-stereotypical behavior in the way they gesticulate in campaign videos collected by the Wesleyan Media Project.
 
-<b>[Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States](https://markusneumann.github.io/research/govwebsites)</b> <br>
-With _Fridolin Linder_ and _Bruce Desmarais_. Revise & Resubmit.<br>.
-Scraping, cleaning, extracting pertinent information from and analyzing websites of local governments through a comprehensive pipeline. The analysis shows that the partisanship of the mayor influences which type of content appears on the website.
+### Working Papers
 
 <b>[Vocal Formality and Public Appeal in the U.S.](https://markusneumann.github.io/research/formality_appeal)</b> <br>
 Dissertation chapter. <br>
