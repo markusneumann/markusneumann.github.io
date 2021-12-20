@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Articles
-Markus Neumann, Erika Franklin Fowler, and and Travis Ridout. 2021. "Body Language and Gender Stereotypes in Campaign Video." Forthcoming at *Computational Communication Research*.
+Markus Neumann, Erika Franklin Fowler, and and Travis Ridout. 2022. "Body Language and Gender Stereotypes in Campaign Video." Forthcoming at *Computational Communication Research*.
 
 Markus Neumann, Fridolin Linder, and Bruce Desmarais. 2021. "Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States." *Journal of Information Technology & Politics*. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/19331681.2021.1999880) [[Replication Materials]](https://github.com/desmarais-lab/govWebsites)
 
