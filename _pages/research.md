@@ -18,13 +18,13 @@ Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-
 Markus Neumann, Jielu Yao, Spencer Dean, and Erika Franklin Fowler. 2020. "A banner year for advertising and a look at differences across platforms." *U.S. Election Analysis 2020: Media, Voters and the Campaign*.
 
 ## Current Projects
-
+<!---
 ### Revise & Resubmit
 
 <b>Body Language and Gender Stereotypes in Campaign Video</b> <br>
 Markus Neumann, Erika Franklin Fowler, and Travis N. Ridout. Revise & Resubmit at *Computational Communication Research*.<br>
 We use automated computer vision techniques to study the body language of candidates for a wide range of political offices in the U.S. We analyze the extent to which political candidates exhibit gender-stereotypical behavior in the way they gesticulate in campaign videos collected by the Wesleyan Media Project.
-
+-->
 ### Working Papers
 
 <b>[Vocal Formality and Public Appeal in the U.S.](https://markusneumann.github.io/research/formality_appeal)</b> <br>
