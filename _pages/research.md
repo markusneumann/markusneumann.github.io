@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-Reviewed Articles
 Markus Neumann, Erika Franklin Fowler, and and Travis Ridout. 2022. "Body Language and Gender Stereotypes in Campaign Video." Forthcoming at *Computational Communication Research*.
 
-Markus Neumann, Fridolin Linder, and Bruce Desmarais. 2021. "Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States." *Journal of Information Technology & Politics*. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/19331681.2021.1999880) [[Replication Materials]](https://github.com/desmarais-lab/govWebsites)
+Markus Neumann, Fridolin Linder, and Bruce Desmarais. 2021. "Government websites as data: A methodological pipeline with application to the websites of municipalities in the United States." *Journal of Information Technology & Politics*. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/19331681.2021.1999880) [[Replication Materials]](https://github.com/desmarais-lab/govWebsites) [[R Package]](https://github.com/desmarais-lab/gov2text)
 
 Zach Baumann, Michael Nelson, and Markus Neumann. 2021. "Party Competition and Policy Liberalism." *State Politics & Policy Quarterly*. [[Paper]](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/abs/party-competition-and-policy-liberalism/6C923408FCB0165E2DF709E9D861DDD8) [[Replication Materials]](https://dataverse.unc.edu/dataset.xhtml?persistentId=doi:10.15139/S3/KXN8GN)
 
