@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Markus Neumann"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Fellow at the Wesleyan Media Project. Computational social science, natural language processing, American politics."
-  location         : "Middletown, CT"
+  bio              : "Assistant Professor of Political Science and Computational Social Science at Duke Kunshan University. Computational social science, natural language processing, political advertising."
+  location         : "Kunshan, Jiangsu, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "mneumann01@wesleyan.edu"
+  email            : "markus.neumann@dukekunshan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
