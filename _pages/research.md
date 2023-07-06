@@ -18,6 +18,3 @@ Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-
 Erika Franklin Fowler, Michael M. Franz, Markus Neumann, Travis N. Ridout, and Jielu Yao. 2023. "Digital Advertising in the 2022 Midterms." *The Forum* 21 (1), pp. 53-73. [[Paper]](https://doi.org/10.1515/for-2023-2006)
 
 Markus Neumann, Jielu Yao, Spencer Dean, and Erika Franklin Fowler. 2020. "A banner year for advertising and a look at differences across platforms." *U.S. Election Analysis 2020: Media, Voters and the Campaign*. [[Paper]](https://www.electionanalysis.ws/us/president2020/section-5-social-media/a-banner-year-for-advertising-and-a-look-at-differences-across-platforms/)
-
-<b>[Causal Evidence on State Effects from a Geographic Regression Discontinuity Design](https://markusneumann.github.io/research/politicalculture)</b> <br>
-A geographic regression discontinuity design utilizing state borders is used to show that there are state effects involved in determining the number of churches and gun stores located on either side of the border.
