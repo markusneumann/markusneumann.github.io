@@ -5,9 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-Wesleyan Media Project & Quantitative Analysis Center<br>
-Wesleyan University<br>
-110 Mt. Vernon<br>
-Middletown, CT 06459
+Duke Kunshan University | 昆山杜克大学<br>
+No. 8 Duke Avenue, Kunshan, Jiangsu, China
 
-Email: mneumann01@wesleyan.edu
+Email: markus.neumann@dukekunshan.edu.cn
