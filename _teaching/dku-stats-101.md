@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate class"
 permalink: /teaching/dku-stats-101
 venue: "Duke Kunshan University"
-date: 2024
+date: 2024-01-01
 location: "Kunshan, China"
 ---
 
