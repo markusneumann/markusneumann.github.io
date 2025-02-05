@@ -7,7 +7,7 @@ author_profile: true
 
 ## Instructor
 
-<b>[Stats 101: Introduction to Applied Statistical Methods](https://markusneumann.github.io/teaching/dku-stats-101)</b> <br>
+<b>[STATS 101: Introduction to Applied Statistical Methods](https://markusneumann.github.io/teaching/dku-stats-101)</b> <br>
 Undergraduate class, <i>Duke Kunshan University</i>, Fall 2024, Session 1 and 2
 
 <b>[INFOSCI 103: Computation, Society & Culture](https://markusneumann.github.io/teaching/dku-infosci-103)</b> <br>
@@ -36,8 +36,3 @@ Professor Allison Harris
 Undergraduate class, <i>Penn State, Department of Political Science</i>, Fall 2016
 
 Professor Zach Baumann
-
-## Teaching Interests
-
-Substantive: American Politics, Campaigns and Elections, Political Behavior, Representation, State Politics<br>
-Methods: Quantitative Methods, Text as Data, Machine Learning, Networks, Game Theory

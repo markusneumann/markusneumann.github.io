@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate class"
 permalink: /teaching/dku-sosc-320
 venue: "Duke Kunshan University"
-date: 2024-01-01
+date: 2023-01-01
 location: "Kunshan, China"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stats 101: Introduction to Applied Statistical Methods"
+title: "STATS 101: Introduction to Applied Statistical Methods"
 collection: teaching
 type: "Undergraduate class"
 permalink: /teaching/dku-stats-101
