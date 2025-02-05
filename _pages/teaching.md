@@ -7,6 +7,9 @@ author_profile: true
 
 ## Instructor
 
+<b>[Stats 101: Introduction to Applied Statistical Methods](https://markusneumann.github.io/dku-stats-101)</b> <br>
+Undergraduate class, <i>Duke Kunshan University</i>, Fall 2024, Session 1 and 2
+
 <b>[QAC 239: Machine Learning Methods for Audio and Video Analysis](https://markusneumann.github.io/teaching/2020-fall-qac239)</b> <br>
 Undergraduate class, <i>Wesleyan University, Quantitative Analysis Center</i>, Fall 2020 - Spring 2023
 
