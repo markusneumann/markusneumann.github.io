@@ -10,6 +10,15 @@ author_profile: true
 <b>[Stats 101: Introduction to Applied Statistical Methods](https://markusneumann.github.io/teaching/dku-stats-101)</b> <br>
 Undergraduate class, <i>Duke Kunshan University</i>, Fall 2024, Session 1 and 2
 
+<b>[INFOSCI 103: Computation, Society & Culture](https://markusneumann.github.io/teaching/dku-infosci-103)</b> <br>
+Undergraduate class, <i>Duke Kunshan University</i>, Fall 2023, Spring 2024, Fall 2024
+
+<b>[SOSC 314: SOSC 314: Computational Social Science: Tools to Collect & Analyze Human Behavior](https://markusneumann.github.io/teaching/dku-sosc-314)</b> <br>
+Undergraduate class, <i>Duke Kunshan University</i>, Spring 2024
+
+<b>[SOSC 320: Data in the World: Applied Social Statistics](https://markusneumann.github.io/teaching/dku-sosc-320)</b> <br>
+Undergraduate class, <i>Duke Kunshan University</i>, Fall 2023
+
 <b>[QAC 239: Machine Learning Methods for Audio and Video Analysis](https://markusneumann.github.io/teaching/2020-fall-qac239)</b> <br>
 Undergraduate class, <i>Wesleyan University, Quantitative Analysis Center</i>, Fall 2020 - Spring 2023
 
