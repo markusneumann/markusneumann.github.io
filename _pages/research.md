@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Articles
+Markus Neumann, Sebastian Zimmeck, Jielu Yao, Erika Franklin Fowler, Michael Franz, Breeze Floyd, and Travis Ridout. 2025. "The Strategic Goals of US Election Ads on Social Media." *Journal of Quantitative Description: Digital Media*, 5. [[Paper]](https://journalqd.org/article/view/9130) [[Replication Materials]](https://github.com/Wesleyan-Media-Project/ad_goal_paper)
+
+Meiqing Zhang, Furkan Cakmak, Markus Neumann, et al. 2025. "Comparable 2022 General Election Advertising Datasets from Meta and Google." *Scientific Data 12*, 968. [[Paper]](https://www.nature.com/articles/s41597-025-05228-w)
+
 Jielu Yao, Travis Ridout, Markus Neumann, and Erika Franklin Fowler. 2025. “Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements.” *Computational Communication Research*, 7(1). [[Paper]](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.2.YAO)
 
 Travis N Ridout, Markus Neumann, Jielu Yao, Laura Baum, Michael M Franz, Pavel Oleinikov, and Erika Franklin Fowler. 2024. "Platform convergence or divergence? Comparing political ad content across digital and social media platforms." *Social Science Computer Review*, 42 (5). [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/08944393241258767)
@@ -23,7 +27,7 @@ Zach Baumann, Michael Nelson, and Markus Neumann. 2021. "Party Competition and P
 Markus Neumann. 2020. "Indirect Reciprocity with Contagious Reputation in Large-Scale Small-World Networks." *Journal of Artificial Societies and Social Simulation* 23 (4). [[Paper]](http://jasss.soc.surrey.ac.uk/23/4/2.html) [[Replication Materials]](https://www.comses.net/codebases/41bc083e-b8d3-4133-83ed-150bb63a4b39/releases/1.0.0/)
 
 ## Other Publications
-Jielu Yao, Markus Neumann, and Erika Franklin Fowler. "Election advertising." 2025. Forthcoming in *Encyclopedia of Political Communication*.
+Jielu Yao, Markus Neumann, and Erika Franklin Fowler. "Election advertising." 2025. In *Elgar Encyclopedia of Political Communication*.
 
 Erika Franklin Fowler, Michael M. Franz, Markus Neumann, Travis N. Ridout, and Jielu Yao. 2023. "Digital Advertising in the 2022 Midterms." *The Forum* 21 (1), pp. 53-73. [[Paper]](https://doi.org/10.1515/for-2023-2006)
 
