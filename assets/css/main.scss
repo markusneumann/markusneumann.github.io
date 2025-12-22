@@ -40,6 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.page__footer {
+.page__footer,
+.page__footer-wrapper,
+#footer,
+footer.page__footer,
+footer {
   display: none !important;
+}
+
+.initial-content {
+  padding-bottom: 0 !important;
+}
+
+body {
+  padding-bottom: 0 !important;
 }
