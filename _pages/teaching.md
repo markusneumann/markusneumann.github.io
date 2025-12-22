@@ -11,7 +11,7 @@ author_profile: true
 Undergraduate class, <i>Duke Kunshan University</i>, Fall 2024, Session 1 and 2
 
 <b>[INFOSCI 103: Computation, Society & Culture](https://markusneumann.github.io/teaching/dku-infosci-103)</b> <br>
-Undergraduate class, <i>Duke Kunshan University</i>, Fall 2023, Spring 2024, Fall 2024
+Undergraduate class, <i>Duke Kunshan University</i>, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025
 
 <b>[SOSC 314: Computational Social Science: Tools to Collect & Analyze Human Behavior](https://markusneumann.github.io/teaching/dku-sosc-314)</b> <br>
 Undergraduate class, <i>Duke Kunshan University</i>, Spring 2024
