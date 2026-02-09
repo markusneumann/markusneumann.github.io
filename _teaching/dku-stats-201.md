@@ -1,5 +1,5 @@
 ---
-title: "SOSC 314: Machine Learning for Social Science"
+title: "STATS 201: Machine Learning for Social Science"
 collection: teaching
 type: "Undergraduate class"
 permalink: /teaching/dku-stats-201
