@@ -7,6 +7,9 @@ author_profile: true
 
 ## Instructor
 
+<b>[STATS 201: Machine Learning for Social Science](https://markusneumann.github.io/teaching/dku-stats-201)</b> <br>
+Undergraduate class, <i>Duke Kunshan University</i>, Spring 2026
+
 <b>[STATS 101: Introduction to Applied Statistical Methods](https://markusneumann.github.io/teaching/dku-stats-101)</b> <br>
 Undergraduate class, <i>Duke Kunshan University</i>, Fall 2024, Session 1 and 2
 
@@ -14,7 +17,7 @@ Undergraduate class, <i>Duke Kunshan University</i>, Fall 2024, Session 1 and 2
 Undergraduate class, <i>Duke Kunshan University</i>, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025
 
 <b>[SOSC 314: Computational Social Science: Tools to Collect & Analyze Human Behavior](https://markusneumann.github.io/teaching/dku-sosc-314)</b> <br>
-Undergraduate class, <i>Duke Kunshan University</i>, Spring 2024
+Undergraduate class, <i>Duke Kunshan University</i>, Spring 2024, Spring 2026
 
 <b>[SOSC 320: Data in the World: Applied Social Statistics](https://markusneumann.github.io/teaching/dku-sosc-320)</b> <br>
 Undergraduate class, <i>Duke Kunshan University</i>, Fall 2023
